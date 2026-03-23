@@ -1,4 +1,4 @@
-# Career Assistant Bot
+# Skilss Assistant Bot
 
 Agentic RAG Telegram-бот для навигации по IT-ролям и навыкам.
 
